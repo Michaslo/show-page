@@ -14,7 +14,7 @@
    align-items: center;
    background-color: #464646;
    height: 110px;
-   
+   width: auto;
 
  }
 .welcome{
@@ -62,7 +62,6 @@
 }
  ul {
    margin: auto;
-   min-width: ;
    padding: auto;
     position: relative;
     display: flex;
