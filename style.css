@@ -15,9 +15,6 @@
    background-color: #464646;
    height: 110px;
    width: auto;
-   margin-left: auto;
-   margin-right: auto;
-
  }
 .welcome{
    text-align: center;
@@ -63,7 +60,7 @@
   100%  {color: var(--color-1)}
 }
  ul {
-   margin: auto;
+   margin: 310px;
    padding: auto;
     position: relative;
     display: flex;
