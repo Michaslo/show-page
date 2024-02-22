@@ -14,8 +14,7 @@
    align-items: center;
    background-color: #464646;
    width: auto;
-   margin: auto;
-   padding: auto;
+
  }
 .welcome{
    text-align: center;
@@ -70,6 +69,8 @@
 }
 
  ul {
+
+   padding: auto;
     position: relative;
     display: flex;
     gap: 40px;
